@@ -6,7 +6,6 @@
 <details>
   <summary align="center">VIEW MORE PHOTOS HERE</summary>
     <a href="https://www.kevintrinh.dev" target="_blank">
-      <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_1.png">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
