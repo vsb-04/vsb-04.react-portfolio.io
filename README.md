@@ -2,7 +2,7 @@
 
 ## 🛠 Installation & setup
 
-1. Clone repository OR download the [latest release](https://github.com/KevinTrinh1227/Reactfolio/releases)
+1. Clone repository OR download the [latest release](https://github.com/vsb-04/react-portfolio.git)
 
    ```sh
    git clone https://github.com/KevinTrinh1227/Reactfolio
