@@ -2,24 +2,15 @@
   A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.
 </p>
 
-<div align="center">
-  <img src="https://api.netlify.com/api/v1/badges/bda950e2-c382-4756-8f7c-129785602a59/deploy-status" alt="Website status" /> 
-  <img src="https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg" alt="Maintained status" />
-  <img src="https://img.shields.io/github/v/release/KevinTrinh1227/Reactfolio.svg" alt="Release badge" />
-</div>
-
-<a href="https://kevintrinh.dev" target="_blank">
-   <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/assets/48145892/d5a342d5-3e49-45d1-9028-cabc663ef61a">
-</a>
 
 <details>
   <summary align="center">VIEW MORE PHOTOS HERE</summary>
     <a href="https://www.kevintrinh.dev" target="_blank">
       <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_1.png">
-      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-0120111815.png">
-      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-0120111815.png">
-      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-0120111815.png">
-      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-0120111815.png">
+      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
+      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
+      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
+      <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01111815.png">
     </a>
 </details>
 
