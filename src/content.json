@@ -169,7 +169,7 @@
 
       {
         "use_git_api": true,
-        "api_github_repo_link": "",
+        "api_github_repo_link": "https://github.com/vsb-04/react-portfolio",
         "project_name": "react-portfolio",
         "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
         "resources_used": [
@@ -184,7 +184,7 @@
         "end_date": "jul 2024",
         "links": [
           {
-            "href": "",
+            "href": "https://github.com/vsb-04/react-portfolio",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           }
