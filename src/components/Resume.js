@@ -23,7 +23,7 @@ const Portfolio = () => {
     <div style={{ height: "100vh", overflow: "hidden" }}>
       <embed
         id="pdfEmbed"
-        src="../assets/Vinod Suresh Badni_KLE Tech University.pdf"
+        src="../assets/Vinod Suresh Badni_KLE Tech University 1.pdf"
         type="application/pdf"
         width="100%"
         height="100%"
