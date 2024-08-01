@@ -1,12 +1,4 @@
 <p align="center">
-  <a href="https://www.kevintrinh.dev" target="_blank">
-    <img alt="Fav Icon Png" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/readme-icon.png" width="100"/>
-  </a>
-</p>
-<h1 align="center">
-  www.kevintrinh.dev - v2
-</h1>
-<p align="center">
   A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.
 </p>
 
