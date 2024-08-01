@@ -9,7 +9,7 @@
    ```
 
    ```sh
-   cd Reactfolio
+   cd react-portfolio
    ```
 
 2. OPTIONAL: Use the correct Node version using [NVM](https://github.com/nvm-sh/nvm) (Node v16.20.2)
