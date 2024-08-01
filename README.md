@@ -4,13 +4,16 @@
 
 
 
-<!--   <summary align="center">VIEW MORE PHOTOS HERE</summary> -->
 
+<details>
+  <summary align="center">VIEW MORE PHOTOS HERE</summary>
+    <a href="https://www.kevintrinh.dev" target="_blank">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01 111815.png">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01 111834.png">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01 111853.png">
       <img alt="Screen Shot" src="https://github.com/vsb-04/react-portfolio/blob/main/public/assets/Screenshot 2024-08-01 111913.png">
-
+    </a>
+</details>
 
 ## 🛠 Installation & setup
 
